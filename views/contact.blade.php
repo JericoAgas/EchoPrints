@@ -1,6 +1,6 @@
 <x-layout>
-    <h1>Welcome to Contact Page</h1>
-</x-layout>
+    <h1></h1>
+
 <section class="text-gray-600 body-font relative">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-12">
@@ -13,3 +13,4 @@
           </div>
     </section>
  
+</x-layout>
