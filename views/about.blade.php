@@ -1,6 +1,6 @@
 <x-layout>
-    <h1>Welcome to About Page</h1>
-</x-layout>
+    <h1></h1>
+
 
 <section class="text-gray-600 body-font">
 <div class="container px-5 py-24 mx-auto">
@@ -11,3 +11,4 @@
 
     </section>
 
+</x-layout>
